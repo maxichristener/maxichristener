@@ -1,4 +1,4 @@
-+ Estudiante de Economía
+
 
 #+begin_comment
 <!---
